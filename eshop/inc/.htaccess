@@ -1,0 +1,5 @@
+# .htaccess для подключаемых файлов
+# Deny from all
+Options Indexes
+# DirectoryIndex index.php
+AddDefaultCharset utf-8
